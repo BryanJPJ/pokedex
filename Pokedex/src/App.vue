@@ -4,9 +4,12 @@ import Pokedex from "../src/views/Pokedex.vue"
 </script>
 
 <template>
-  <Pokedex></Pokedex>
+  <Pokedex/>
 </template>
 
-<style scoped>
-
+<style >
+body{
+  margin: 0;
+  padding: 0;
+}
 </style>
